@@ -1,0 +1,552 @@
+2024-03-30 00:48:05,108 - INFO - Loading model...
+2024-03-30 00:48:05,108 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-03-30 00:48:06,073 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2024-03-30 00:48:09,804 - INFO - Model loaded successfully.
+2024-03-30 00:48:09,808 - INFO - File uploaded: None
+2024-03-30 00:48:16,598 - INFO - Loading model...
+2024-03-30 00:48:20,554 - INFO - Model loaded successfully.
+2024-03-30 00:48:20,555 - INFO - File uploaded: UploadedFile(file_id='35c745e1-51f0-4e71-9fd6-531733d3a0f3', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "35c745e1-51f0-4e71-9fd6-531733d3a0f3"
+upload_url: "/_stcore/upload_file/c2e5a17a-067b-4391-ac13-25f7c55ba70c/35c745e1-51f0-4e71-9fd6-531733d3a0f3"
+delete_url: "/_stcore/upload_file/c2e5a17a-067b-4391-ac13-25f7c55ba70c/35c745e1-51f0-4e71-9fd6-531733d3a0f3"
+)
+2024-03-30 00:48:20,555 - INFO - Loading image...
+2024-03-30 00:48:20,583 - INFO - Image loaded successfully.
+2024-03-30 00:48:20,583 - INFO - Classifying image...
+2024-03-30 00:48:22,393 - INFO - Image classified successfully.
+2024-03-30 00:50:37,242 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-03-30 00:50:37,250 - INFO - Loading model...
+2024-03-30 00:50:38,188 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2024-03-30 00:50:42,224 - INFO - Model loaded successfully.
+2024-03-30 00:50:42,224 - INFO - File uploaded: None
+2024-03-30 00:50:43,528 - INFO - Loading model...
+2024-03-30 00:50:47,633 - INFO - Model loaded successfully.
+2024-03-30 00:50:47,633 - INFO - File uploaded: UploadedFile(file_id='f9cbbcfb-cd77-44e6-95f9-51602cf94f96', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "f9cbbcfb-cd77-44e6-95f9-51602cf94f96"
+upload_url: "/_stcore/upload_file/03daf636-12ea-48cf-a9e7-45ceb907d44f/f9cbbcfb-cd77-44e6-95f9-51602cf94f96"
+delete_url: "/_stcore/upload_file/03daf636-12ea-48cf-a9e7-45ceb907d44f/f9cbbcfb-cd77-44e6-95f9-51602cf94f96"
+)
+2024-03-30 00:50:47,642 - INFO - Loading image...
+2024-03-30 00:50:47,658 - INFO - Image loaded successfully.
+2024-03-30 00:50:47,673 - ERROR - An error occurred: Data is outside [0.0, 1.0] and clamp is not set.
+2024-03-30 00:51:34,430 - INFO - Loading model...
+2024-03-30 00:51:38,700 - INFO - Model loaded successfully.
+2024-03-30 00:51:38,716 - INFO - File uploaded: UploadedFile(file_id='f9cbbcfb-cd77-44e6-95f9-51602cf94f96', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "f9cbbcfb-cd77-44e6-95f9-51602cf94f96"
+upload_url: "/_stcore/upload_file/03daf636-12ea-48cf-a9e7-45ceb907d44f/f9cbbcfb-cd77-44e6-95f9-51602cf94f96"
+delete_url: "/_stcore/upload_file/03daf636-12ea-48cf-a9e7-45ceb907d44f/f9cbbcfb-cd77-44e6-95f9-51602cf94f96"
+)
+2024-03-30 00:51:38,716 - INFO - Loading image...
+2024-03-30 00:51:38,732 - INFO - Image loaded successfully.
+2024-03-30 00:51:38,741 - ERROR - An error occurred: Data is outside [0.0, 1.0] and clamp is not set.
+2024-03-30 00:55:15,967 - INFO - Loading model...
+2024-03-30 00:55:16,219 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2024-03-30 00:55:16,438 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2024-03-30 00:55:18,178 - INFO - Model loaded successfully.
+2024-03-30 00:55:18,178 - INFO - File uploaded: None
+2024-03-30 00:55:22,074 - INFO - Loading model...
+2024-03-30 00:55:26,039 - INFO - Model loaded successfully.
+2024-03-30 00:55:26,039 - INFO - File uploaded: UploadedFile(file_id='e1614700-6e7a-4aa3-bbd6-43e863b9a789', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "e1614700-6e7a-4aa3-bbd6-43e863b9a789"
+upload_url: "/_stcore/upload_file/e7f21eb7-211f-4cf3-91a2-d25d8f3998fb/e1614700-6e7a-4aa3-bbd6-43e863b9a789"
+delete_url: "/_stcore/upload_file/e7f21eb7-211f-4cf3-91a2-d25d8f3998fb/e1614700-6e7a-4aa3-bbd6-43e863b9a789"
+)
+2024-03-30 00:55:26,039 - INFO - Loading image...
+2024-03-30 00:55:26,079 - INFO - Image loaded successfully.
+2024-03-30 00:55:26,081 - ERROR - An error occurred: Data is outside [0.0, 1.0] and clamp is not set.
+2024-03-30 00:56:50,300 - INFO - Loading model...
+2024-03-30 00:56:50,308 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-03-30 00:56:51,383 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2024-03-30 00:56:55,406 - INFO - Model loaded successfully.
+2024-03-30 00:56:55,406 - INFO - File uploaded: None
+2024-03-30 00:57:08,135 - INFO - Loading model...
+2024-03-30 00:57:12,284 - INFO - Model loaded successfully.
+2024-03-30 00:57:12,286 - INFO - File uploaded: UploadedFile(file_id='fea077db-31d7-42d7-a2f9-82f1c429559d', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "fea077db-31d7-42d7-a2f9-82f1c429559d"
+upload_url: "/_stcore/upload_file/39f1f141-c9e7-4040-b504-6cbc8fb30798/fea077db-31d7-42d7-a2f9-82f1c429559d"
+delete_url: "/_stcore/upload_file/39f1f141-c9e7-4040-b504-6cbc8fb30798/fea077db-31d7-42d7-a2f9-82f1c429559d"
+)
+2024-03-30 00:57:12,286 - INFO - Loading image...
+2024-03-30 00:57:12,312 - INFO - Image loaded successfully.
+2024-03-30 00:57:12,312 - ERROR - An error occurred: Data is outside [0.0, 1.0] and clamp is not set.
+2024-03-30 00:59:12,489 - INFO - Loading model...
+2024-03-30 00:59:12,500 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-03-30 00:59:13,409 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2024-03-30 00:59:17,273 - INFO - Model loaded successfully.
+2024-03-30 00:59:17,273 - INFO - File uploaded: None
+2024-03-30 00:59:18,780 - INFO - Loading model...
+2024-03-30 00:59:22,954 - INFO - Model loaded successfully.
+2024-03-30 00:59:22,954 - INFO - File uploaded: UploadedFile(file_id='d6eca834-22e3-4be1-87ef-96fa229d40d6', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "d6eca834-22e3-4be1-87ef-96fa229d40d6"
+upload_url: "/_stcore/upload_file/abf19f00-27a1-40ad-a875-1a8621f68574/d6eca834-22e3-4be1-87ef-96fa229d40d6"
+delete_url: "/_stcore/upload_file/abf19f00-27a1-40ad-a875-1a8621f68574/d6eca834-22e3-4be1-87ef-96fa229d40d6"
+)
+2024-03-30 00:59:22,954 - INFO - Loading image...
+2024-03-30 00:59:22,990 - INFO - Image loaded successfully.
+2024-03-30 00:59:22,990 - INFO - Classifying image...
+2024-03-30 00:59:24,844 - INFO - Image classified successfully.
+2024-03-30 01:01:12,905 - INFO - Loading model...
+2024-03-30 01:01:12,922 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-03-30 01:01:13,888 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2024-03-30 01:01:17,951 - INFO - Model loaded successfully.
+2024-03-30 01:01:17,967 - INFO - File uploaded: None
+2024-03-30 01:01:19,502 - INFO - Loading model...
+2024-03-30 01:01:23,531 - INFO - Model loaded successfully.
+2024-03-30 01:01:23,532 - INFO - File uploaded: UploadedFile(file_id='033d6388-ecf5-4c37-86a0-28c6b7e81823', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "033d6388-ecf5-4c37-86a0-28c6b7e81823"
+upload_url: "/_stcore/upload_file/d105da1f-5ac1-411b-a3b3-a26729e67a3d/033d6388-ecf5-4c37-86a0-28c6b7e81823"
+delete_url: "/_stcore/upload_file/d105da1f-5ac1-411b-a3b3-a26729e67a3d/033d6388-ecf5-4c37-86a0-28c6b7e81823"
+)
+2024-03-30 01:01:23,534 - INFO - Loading image...
+2024-03-30 01:01:23,557 - INFO - Image loaded successfully.
+2024-03-30 01:01:23,565 - INFO - came in col1
+2024-03-30 01:01:23,566 - ERROR - An error occurred: Data is outside [0.0, 1.0] and clamp is not set.
+2024-03-30 01:02:02,506 - INFO - Loading model...
+2024-03-30 01:02:06,695 - INFO - Model loaded successfully.
+2024-03-30 01:02:06,697 - INFO - File uploaded: None
+2024-03-30 01:02:10,510 - INFO - Loading model...
+2024-03-30 01:02:14,585 - INFO - Model loaded successfully.
+2024-03-30 01:02:14,586 - INFO - File uploaded: UploadedFile(file_id='06644477-0da6-4234-a74e-4e599026dccc', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "06644477-0da6-4234-a74e-4e599026dccc"
+upload_url: "/_stcore/upload_file/a90e07a3-c1f2-4f90-9dff-b02428bbaffa/06644477-0da6-4234-a74e-4e599026dccc"
+delete_url: "/_stcore/upload_file/a90e07a3-c1f2-4f90-9dff-b02428bbaffa/06644477-0da6-4234-a74e-4e599026dccc"
+)
+2024-03-30 01:02:14,586 - INFO - Loading image...
+2024-03-30 01:02:14,610 - INFO - Image loaded successfully.
+2024-03-30 01:02:14,613 - INFO - came in col1
+2024-03-30 01:02:14,614 - ERROR - An error occurred: Data is outside [0.0, 1.0] and clamp is not set.
+2024-03-30 01:02:33,143 - INFO - Loading model...
+2024-03-30 01:02:35,227 - INFO - Model loaded successfully.
+2024-03-30 01:02:35,229 - INFO - File uploaded: None
+2024-03-30 01:02:40,288 - INFO - Loading model...
+2024-03-30 01:02:44,244 - INFO - Model loaded successfully.
+2024-03-30 01:02:44,244 - INFO - File uploaded: UploadedFile(file_id='81494217-5d36-4ac6-bdcc-d2a05dfbfff5', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "81494217-5d36-4ac6-bdcc-d2a05dfbfff5"
+upload_url: "/_stcore/upload_file/7918ce31-4550-40b4-885d-c481ed513b11/81494217-5d36-4ac6-bdcc-d2a05dfbfff5"
+delete_url: "/_stcore/upload_file/7918ce31-4550-40b4-885d-c481ed513b11/81494217-5d36-4ac6-bdcc-d2a05dfbfff5"
+)
+2024-03-30 01:02:44,244 - INFO - Loading image...
+2024-03-30 01:02:44,271 - INFO - Image loaded successfully.
+2024-03-30 01:02:44,272 - INFO - came in col1
+2024-03-30 01:02:44,272 - ERROR - An error occurred: Data is outside [0.0, 1.0] and clamp is not set.
+2024-03-30 01:06:25,474 - INFO - Loading model...
+2024-03-30 01:06:25,481 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-03-30 01:06:26,686 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2024-03-30 01:06:30,608 - INFO - Model loaded successfully.
+2024-03-30 01:06:30,609 - INFO - File uploaded: None
+2024-03-30 01:06:39,048 - INFO - Loading model...
+2024-03-30 01:06:43,028 - INFO - Model loaded successfully.
+2024-03-30 01:06:43,030 - INFO - File uploaded: UploadedFile(file_id='cc61f2ed-8891-4587-b59b-c17748746436', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "cc61f2ed-8891-4587-b59b-c17748746436"
+upload_url: "/_stcore/upload_file/3ae4cde4-5a42-4415-ad03-da99b3f0ae2b/cc61f2ed-8891-4587-b59b-c17748746436"
+delete_url: "/_stcore/upload_file/3ae4cde4-5a42-4415-ad03-da99b3f0ae2b/cc61f2ed-8891-4587-b59b-c17748746436"
+)
+2024-03-30 01:06:43,030 - INFO - Loading image...
+2024-03-30 01:06:43,061 - INFO - Image loaded successfully.
+2024-03-30 01:06:43,061 - INFO - Classifying image...
+2024-03-30 01:06:44,995 - INFO - Image classified successfully.
+2024-03-30 01:06:44,995 - INFO - came in col2
+2024-03-30 01:06:45,007 - ERROR - Error displaying result: unsupported format string passed to numpy.ndarray.__format__
+2024-03-30 01:06:45,007 - INFO - col2 done
+2024-03-30 01:10:11,139 - INFO - Loading model...
+2024-03-30 01:10:11,147 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-03-30 01:10:12,484 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2024-03-30 01:10:15,176 - INFO - Model loaded successfully.
+2024-03-30 01:10:15,177 - INFO - File uploaded: None
+2024-03-30 01:10:16,286 - INFO - Loading model...
+2024-03-30 01:10:18,236 - INFO - Model loaded successfully.
+2024-03-30 01:10:18,236 - INFO - File uploaded: UploadedFile(file_id='9812b30f-9ab0-4865-bdd9-b8f2bd7195d3', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "9812b30f-9ab0-4865-bdd9-b8f2bd7195d3"
+upload_url: "/_stcore/upload_file/e923373e-2080-42b9-a32f-98af81d6e34f/9812b30f-9ab0-4865-bdd9-b8f2bd7195d3"
+delete_url: "/_stcore/upload_file/e923373e-2080-42b9-a32f-98af81d6e34f/9812b30f-9ab0-4865-bdd9-b8f2bd7195d3"
+)
+2024-03-30 01:10:18,237 - INFO - Loading image...
+2024-03-30 01:10:18,247 - INFO - Image loaded successfully.
+2024-03-30 01:10:18,247 - INFO - Classifying image...
+2024-03-30 01:10:19,060 - INFO - Image classified successfully.
+2024-03-30 01:15:43,565 - INFO - Loading model...
+2024-03-30 01:15:43,571 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-03-30 01:15:44,712 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2024-03-30 01:15:48,555 - INFO - Model loaded successfully.
+2024-03-30 01:15:48,561 - INFO - File uploaded: None
+2024-03-30 01:16:11,272 - INFO - Loading model...
+2024-03-30 01:16:15,252 - INFO - Model loaded successfully.
+2024-03-30 01:16:15,261 - INFO - File uploaded: UploadedFile(file_id='aeb0dffe-3628-4868-8f3d-60763db7b1d3', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "aeb0dffe-3628-4868-8f3d-60763db7b1d3"
+upload_url: "/_stcore/upload_file/2285087a-534d-4490-b25b-44763c2e1bd4/aeb0dffe-3628-4868-8f3d-60763db7b1d3"
+delete_url: "/_stcore/upload_file/2285087a-534d-4490-b25b-44763c2e1bd4/aeb0dffe-3628-4868-8f3d-60763db7b1d3"
+)
+2024-03-30 01:16:15,261 - INFO - Loading image...
+2024-03-30 01:16:15,284 - INFO - Image loaded successfully.
+2024-03-30 01:16:15,286 - INFO - Classifying image...
+2024-03-30 01:16:17,098 - INFO - Image classified successfully.
+2024-03-30 01:17:42,190 - INFO - Loading model...
+2024-03-30 01:17:42,190 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-03-30 01:17:42,925 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2024-03-30 01:17:45,844 - INFO - Model loaded successfully.
+2024-03-30 01:17:45,844 - INFO - File uploaded: None
+2024-03-30 01:17:46,998 - INFO - Loading model...
+2024-03-30 01:17:50,256 - INFO - Model loaded successfully.
+2024-03-30 01:17:50,256 - INFO - File uploaded: UploadedFile(file_id='d35bd718-62e2-4b15-ac5e-900ed150579f', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "d35bd718-62e2-4b15-ac5e-900ed150579f"
+upload_url: "/_stcore/upload_file/1bfb2ea9-2d2c-4083-8c36-5b91cb9317e9/d35bd718-62e2-4b15-ac5e-900ed150579f"
+delete_url: "/_stcore/upload_file/1bfb2ea9-2d2c-4083-8c36-5b91cb9317e9/d35bd718-62e2-4b15-ac5e-900ed150579f"
+)
+2024-03-30 01:17:50,260 - INFO - Loading image...
+2024-03-30 01:17:50,282 - INFO - Image loaded successfully.
+2024-03-30 01:17:50,283 - INFO - Classifying image...
+2024-03-30 01:17:51,640 - INFO - Image classified successfully.
+2024-03-30 01:20:31,993 - INFO - Loading model...
+2024-03-30 01:20:32,009 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-03-30 01:20:32,846 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2024-03-30 01:20:35,351 - INFO - Model loaded successfully.
+2024-03-30 01:20:35,351 - INFO - File uploaded: None
+2024-03-30 01:20:39,717 - INFO - Loading model...
+2024-03-30 01:20:42,214 - INFO - Model loaded successfully.
+2024-03-30 01:20:42,214 - INFO - File uploaded: UploadedFile(file_id='04d67ce1-f1be-45c6-abea-00dbf89abfbb', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "04d67ce1-f1be-45c6-abea-00dbf89abfbb"
+upload_url: "/_stcore/upload_file/5457a522-9c66-4a32-948e-6079c28c9f75/04d67ce1-f1be-45c6-abea-00dbf89abfbb"
+delete_url: "/_stcore/upload_file/5457a522-9c66-4a32-948e-6079c28c9f75/04d67ce1-f1be-45c6-abea-00dbf89abfbb"
+)
+2024-03-30 01:20:42,214 - INFO - Loading image...
+2024-03-30 01:20:42,232 - INFO - Image loaded successfully.
+2024-03-30 01:20:42,232 - INFO - Classifying image...
+2024-03-30 01:20:43,382 - INFO - Image classified successfully.
+2024-03-30 01:20:43,437 - ERROR - Error displaying result: Unable to determine data type for the field "Confidence"; verify that the field name is not misspelled. If you are referencing a field from a transform, also confirm that the data type is specified correctly.
+2024-03-30 01:21:29,864 - INFO - Loading model...
+2024-03-30 01:21:29,864 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\backend.py:277: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-03-30 01:21:30,574 - WARNING - From C:\Users\kesha\anaconda3\envs\pygpu\lib\site-packages\keras\src\layers\normalization\batch_normalization.py:979: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+2024-03-30 01:21:33,158 - INFO - Model loaded successfully.
+2024-03-30 01:21:33,158 - INFO - File uploaded: None
+2024-03-30 01:21:38,917 - INFO - Loading model...
+2024-03-30 01:21:41,631 - INFO - Model loaded successfully.
+2024-03-30 01:21:41,631 - INFO - File uploaded: UploadedFile(file_id='3580457f-46f9-4d90-94e1-11b71547c3aa', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "3580457f-46f9-4d90-94e1-11b71547c3aa"
+upload_url: "/_stcore/upload_file/13635837-f7ca-4c30-a3f0-4ae30a1a7913/3580457f-46f9-4d90-94e1-11b71547c3aa"
+delete_url: "/_stcore/upload_file/13635837-f7ca-4c30-a3f0-4ae30a1a7913/3580457f-46f9-4d90-94e1-11b71547c3aa"
+)
+2024-03-30 01:21:41,631 - INFO - Loading image...
+2024-03-30 01:21:41,658 - INFO - Image loaded successfully.
+2024-03-30 01:21:41,658 - INFO - Classifying image...
+2024-03-30 01:21:42,979 - INFO - Image classified successfully.
+2024-03-30 01:22:05,544 - INFO - Loading model...
+2024-03-30 01:22:06,871 - INFO - Model loaded successfully.
+2024-03-30 01:22:06,871 - INFO - File uploaded: UploadedFile(file_id='3580457f-46f9-4d90-94e1-11b71547c3aa', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "3580457f-46f9-4d90-94e1-11b71547c3aa"
+upload_url: "/_stcore/upload_file/13635837-f7ca-4c30-a3f0-4ae30a1a7913/3580457f-46f9-4d90-94e1-11b71547c3aa"
+delete_url: "/_stcore/upload_file/13635837-f7ca-4c30-a3f0-4ae30a1a7913/3580457f-46f9-4d90-94e1-11b71547c3aa"
+)
+2024-03-30 01:22:06,871 - INFO - Loading image...
+2024-03-30 01:22:06,881 - INFO - Image loaded successfully.
+2024-03-30 01:22:06,881 - INFO - Classifying image...
+2024-03-30 01:22:07,398 - INFO - Image classified successfully.
+2024-03-30 01:23:06,831 - INFO - Loading model...
+2024-03-30 01:23:08,117 - INFO - Model loaded successfully.
+2024-03-30 01:23:08,117 - INFO - File uploaded: UploadedFile(file_id='3580457f-46f9-4d90-94e1-11b71547c3aa', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "3580457f-46f9-4d90-94e1-11b71547c3aa"
+upload_url: "/_stcore/upload_file/13635837-f7ca-4c30-a3f0-4ae30a1a7913/3580457f-46f9-4d90-94e1-11b71547c3aa"
+delete_url: "/_stcore/upload_file/13635837-f7ca-4c30-a3f0-4ae30a1a7913/3580457f-46f9-4d90-94e1-11b71547c3aa"
+)
+2024-03-30 01:23:08,117 - INFO - Loading image...
+2024-03-30 01:23:08,134 - INFO - Image loaded successfully.
+2024-03-30 01:23:08,134 - INFO - Classifying image...
+2024-03-30 01:23:08,668 - INFO - Image classified successfully.
+2024-03-30 01:23:08,695 - ERROR - Error displaying result: `X` has no parameter named 'binSpacing'
+
+Existing parameter names are:
+shorthand      bin      scale   timeUnit   
+aggregate      field    sort    title      
+axis           impute   stack   type       
+bandPosition                               
+
+See the help for `X` to read the full description of these parameters
+2024-03-30 01:24:24,932 - INFO - Loading model...
+2024-03-30 01:24:26,220 - INFO - Model loaded successfully.
+2024-03-30 01:24:26,220 - INFO - File uploaded: UploadedFile(file_id='3580457f-46f9-4d90-94e1-11b71547c3aa', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "3580457f-46f9-4d90-94e1-11b71547c3aa"
+upload_url: "/_stcore/upload_file/13635837-f7ca-4c30-a3f0-4ae30a1a7913/3580457f-46f9-4d90-94e1-11b71547c3aa"
+delete_url: "/_stcore/upload_file/13635837-f7ca-4c30-a3f0-4ae30a1a7913/3580457f-46f9-4d90-94e1-11b71547c3aa"
+)
+2024-03-30 01:24:26,220 - INFO - Loading image...
+2024-03-30 01:24:26,233 - INFO - Image loaded successfully.
+2024-03-30 01:24:26,234 - INFO - Classifying image...
+2024-03-30 01:24:26,757 - INFO - Image classified successfully.
+2024-03-30 01:24:41,343 - INFO - Loading model...
+2024-03-30 01:24:42,623 - INFO - Model loaded successfully.
+2024-03-30 01:24:42,623 - INFO - File uploaded: UploadedFile(file_id='3580457f-46f9-4d90-94e1-11b71547c3aa', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "3580457f-46f9-4d90-94e1-11b71547c3aa"
+upload_url: "/_stcore/upload_file/13635837-f7ca-4c30-a3f0-4ae30a1a7913/3580457f-46f9-4d90-94e1-11b71547c3aa"
+delete_url: "/_stcore/upload_file/13635837-f7ca-4c30-a3f0-4ae30a1a7913/3580457f-46f9-4d90-94e1-11b71547c3aa"
+)
+2024-03-30 01:24:42,629 - INFO - Loading image...
+2024-03-30 01:24:42,637 - INFO - Image loaded successfully.
+2024-03-30 01:24:42,637 - INFO - Classifying image...
+2024-03-30 01:24:43,160 - WARNING - 5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001AF1B0C1870> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-03-30 01:24:43,168 - INFO - Image classified successfully.
+2024-03-30 01:24:57,718 - INFO - Loading model...
+2024-03-30 01:24:59,014 - INFO - Model loaded successfully.
+2024-03-30 01:24:59,023 - INFO - File uploaded: UploadedFile(file_id='3580457f-46f9-4d90-94e1-11b71547c3aa', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "3580457f-46f9-4d90-94e1-11b71547c3aa"
+upload_url: "/_stcore/upload_file/13635837-f7ca-4c30-a3f0-4ae30a1a7913/3580457f-46f9-4d90-94e1-11b71547c3aa"
+delete_url: "/_stcore/upload_file/13635837-f7ca-4c30-a3f0-4ae30a1a7913/3580457f-46f9-4d90-94e1-11b71547c3aa"
+)
+2024-03-30 01:24:59,023 - INFO - Loading image...
+2024-03-30 01:24:59,033 - INFO - Image loaded successfully.
+2024-03-30 01:24:59,033 - INFO - Classifying image...
+2024-03-30 01:24:59,559 - WARNING - 6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001AF1B156EF0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-03-30 01:24:59,559 - INFO - Image classified successfully.
+2024-03-30 01:25:13,494 - INFO - Loading model...
+2024-03-30 01:25:14,808 - INFO - Model loaded successfully.
+2024-03-30 01:25:14,809 - INFO - File uploaded: None
+2024-03-30 01:25:19,792 - INFO - Loading model...
+2024-03-30 01:25:23,045 - INFO - Model loaded successfully.
+2024-03-30 01:25:23,046 - INFO - File uploaded: UploadedFile(file_id='5c8452a4-f91a-4996-83cf-5aa7149f5fcd', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+)
+2024-03-30 01:25:23,046 - INFO - Loading image...
+2024-03-30 01:25:23,060 - INFO - Image loaded successfully.
+2024-03-30 01:25:23,060 - INFO - Classifying image...
+2024-03-30 01:25:24,406 - INFO - Image classified successfully.
+2024-03-30 01:27:21,433 - INFO - Loading model...
+2024-03-30 01:27:22,739 - INFO - Model loaded successfully.
+2024-03-30 01:27:22,745 - INFO - File uploaded: UploadedFile(file_id='5c8452a4-f91a-4996-83cf-5aa7149f5fcd', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+)
+2024-03-30 01:27:22,745 - INFO - Loading image...
+2024-03-30 01:27:22,754 - INFO - Image loaded successfully.
+2024-03-30 01:27:22,754 - INFO - Classifying image...
+2024-03-30 01:27:23,283 - INFO - Image classified successfully.
+2024-03-30 01:27:36,992 - INFO - Loading model...
+2024-03-30 01:27:38,310 - INFO - Model loaded successfully.
+2024-03-30 01:27:38,310 - INFO - File uploaded: UploadedFile(file_id='5c8452a4-f91a-4996-83cf-5aa7149f5fcd', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+)
+2024-03-30 01:27:38,310 - INFO - Loading image...
+2024-03-30 01:27:38,325 - INFO - Image loaded successfully.
+2024-03-30 01:27:38,325 - INFO - Classifying image...
+2024-03-30 01:27:38,857 - INFO - Image classified successfully.
+2024-03-30 01:27:47,843 - INFO - Loading model...
+2024-03-30 01:27:49,179 - INFO - Model loaded successfully.
+2024-03-30 01:27:49,179 - INFO - File uploaded: UploadedFile(file_id='5c8452a4-f91a-4996-83cf-5aa7149f5fcd', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+)
+2024-03-30 01:27:49,179 - INFO - Loading image...
+2024-03-30 01:27:49,189 - INFO - Image loaded successfully.
+2024-03-30 01:27:49,189 - INFO - Classifying image...
+2024-03-30 01:27:49,715 - INFO - Image classified successfully.
+2024-03-30 01:28:02,970 - INFO - Loading model...
+2024-03-30 01:28:04,322 - INFO - Model loaded successfully.
+2024-03-30 01:28:04,324 - INFO - File uploaded: UploadedFile(file_id='5c8452a4-f91a-4996-83cf-5aa7149f5fcd', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+)
+2024-03-30 01:28:04,324 - INFO - Loading image...
+2024-03-30 01:28:04,332 - INFO - Image loaded successfully.
+2024-03-30 01:28:04,332 - INFO - Classifying image...
+2024-03-30 01:28:04,857 - INFO - Image classified successfully.
+2024-03-30 01:28:18,587 - INFO - Loading model...
+2024-03-30 01:28:19,947 - INFO - Model loaded successfully.
+2024-03-30 01:28:19,947 - INFO - File uploaded: UploadedFile(file_id='5c8452a4-f91a-4996-83cf-5aa7149f5fcd', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+)
+2024-03-30 01:28:19,947 - INFO - Loading image...
+2024-03-30 01:28:19,960 - INFO - Image loaded successfully.
+2024-03-30 01:28:19,960 - INFO - Classifying image...
+2024-03-30 01:28:20,472 - INFO - Image classified successfully.
+2024-03-30 01:28:33,125 - INFO - Loading model...
+2024-03-30 01:28:34,499 - INFO - Model loaded successfully.
+2024-03-30 01:28:34,507 - INFO - File uploaded: UploadedFile(file_id='5c8452a4-f91a-4996-83cf-5aa7149f5fcd', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+)
+2024-03-30 01:28:34,507 - INFO - Loading image...
+2024-03-30 01:28:34,518 - INFO - Image loaded successfully.
+2024-03-30 01:28:34,518 - INFO - Classifying image...
+2024-03-30 01:28:35,074 - INFO - Image classified successfully.
+2024-03-30 01:28:42,757 - INFO - Loading model...
+2024-03-30 01:28:45,855 - INFO - Model loaded successfully.
+2024-03-30 01:28:45,855 - INFO - File uploaded: UploadedFile(file_id='5c8452a4-f91a-4996-83cf-5aa7149f5fcd', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+)
+2024-03-30 01:28:45,855 - INFO - Loading image...
+2024-03-30 01:28:45,875 - INFO - Image loaded successfully.
+2024-03-30 01:28:45,875 - INFO - Classifying image...
+2024-03-30 01:28:47,162 - INFO - Image classified successfully.
+2024-03-30 01:29:08,231 - INFO - Loading model...
+2024-03-30 01:29:09,564 - INFO - Model loaded successfully.
+2024-03-30 01:29:09,564 - INFO - File uploaded: UploadedFile(file_id='5c8452a4-f91a-4996-83cf-5aa7149f5fcd', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+)
+2024-03-30 01:29:09,564 - INFO - Loading image...
+2024-03-30 01:29:09,577 - INFO - Image loaded successfully.
+2024-03-30 01:29:09,577 - INFO - Classifying image...
+2024-03-30 01:29:10,127 - INFO - Image classified successfully.
+2024-03-30 01:29:24,591 - INFO - Loading model...
+2024-03-30 01:29:25,904 - INFO - Model loaded successfully.
+2024-03-30 01:29:25,904 - INFO - File uploaded: UploadedFile(file_id='5c8452a4-f91a-4996-83cf-5aa7149f5fcd', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+)
+2024-03-30 01:29:25,904 - INFO - Loading image...
+2024-03-30 01:29:25,916 - INFO - Image loaded successfully.
+2024-03-30 01:29:25,916 - INFO - Classifying image...
+2024-03-30 01:29:26,477 - INFO - Image classified successfully.
+2024-03-30 01:30:12,441 - INFO - Loading model...
+2024-03-30 01:30:13,680 - INFO - Model loaded successfully.
+2024-03-30 01:30:13,680 - INFO - File uploaded: UploadedFile(file_id='5c8452a4-f91a-4996-83cf-5aa7149f5fcd', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+)
+2024-03-30 01:30:13,680 - INFO - Loading image...
+2024-03-30 01:30:13,691 - INFO - Image loaded successfully.
+2024-03-30 01:30:13,691 - INFO - Classifying image...
+2024-03-30 01:30:14,211 - INFO - Image classified successfully.
+2024-03-30 01:31:57,593 - INFO - Loading model...
+2024-03-30 01:31:58,895 - INFO - Model loaded successfully.
+2024-03-30 01:31:58,895 - INFO - File uploaded: UploadedFile(file_id='5c8452a4-f91a-4996-83cf-5aa7149f5fcd', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5c8452a4-f91a-4996-83cf-5aa7149f5fcd"
+)
+2024-03-30 01:31:58,895 - INFO - Loading image...
+2024-03-30 01:31:58,911 - INFO - Image loaded successfully.
+2024-03-30 01:31:58,911 - INFO - Classifying image...
+2024-03-30 01:31:59,463 - INFO - Image classified successfully.
+2024-03-30 01:32:28,378 - INFO - Loading model...
+2024-03-30 01:32:28,512 - INFO - Loading model...
+2024-03-30 01:32:30,755 - INFO - Model loaded successfully.
+2024-03-30 01:32:30,755 - INFO - File uploaded: UploadedFile(file_id='9fb31f5c-b516-460d-b53d-afd18d06082f', name='download.jpg', type='image/jpeg', size=7774, _file_urls=file_id: "9fb31f5c-b516-460d-b53d-afd18d06082f"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/9fb31f5c-b516-460d-b53d-afd18d06082f"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/9fb31f5c-b516-460d-b53d-afd18d06082f"
+)
+2024-03-30 01:32:30,755 - INFO - Loading image...
+2024-03-30 01:32:30,755 - INFO - Model loaded successfully.
+2024-03-30 01:32:30,865 - INFO - Image loaded successfully.
+2024-03-30 01:32:30,865 - INFO - Classifying image...
+2024-03-30 01:32:31,359 - INFO - Image classified successfully.
+2024-03-30 01:35:26,058 - INFO - Loading model...
+2024-03-30 01:35:27,321 - INFO - Model loaded successfully.
+2024-03-30 01:35:27,321 - INFO - File uploaded: UploadedFile(file_id='9fb31f5c-b516-460d-b53d-afd18d06082f', name='download.jpg', type='image/jpeg', size=7774, _file_urls=file_id: "9fb31f5c-b516-460d-b53d-afd18d06082f"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/9fb31f5c-b516-460d-b53d-afd18d06082f"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/9fb31f5c-b516-460d-b53d-afd18d06082f"
+)
+2024-03-30 01:35:27,321 - INFO - Loading image...
+2024-03-30 01:35:27,337 - INFO - Image loaded successfully.
+2024-03-30 01:35:27,337 - INFO - Classifying image...
+2024-03-30 01:35:27,887 - ERROR - Error classifying image: invalid literal for int() with base 10: 'Adult'
+2024-03-30 01:35:27,887 - ERROR - An error occurred: cannot unpack non-iterable NoneType object
+2024-03-30 01:36:25,457 - INFO - Loading model...
+2024-03-30 01:36:26,694 - INFO - Model loaded successfully.
+2024-03-30 01:36:26,696 - INFO - File uploaded: UploadedFile(file_id='9fb31f5c-b516-460d-b53d-afd18d06082f', name='download.jpg', type='image/jpeg', size=7774, _file_urls=file_id: "9fb31f5c-b516-460d-b53d-afd18d06082f"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/9fb31f5c-b516-460d-b53d-afd18d06082f"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/9fb31f5c-b516-460d-b53d-afd18d06082f"
+)
+2024-03-30 01:36:26,696 - INFO - Loading image...
+2024-03-30 01:36:26,704 - INFO - Image loaded successfully.
+2024-03-30 01:36:26,704 - INFO - Classifying image...
+2024-03-30 01:36:27,213 - INFO - Image classified successfully.
+2024-03-30 01:37:08,466 - INFO - Loading model...
+2024-03-30 01:37:09,718 - INFO - Model loaded successfully.
+2024-03-30 01:37:09,718 - INFO - File uploaded: UploadedFile(file_id='9fb31f5c-b516-460d-b53d-afd18d06082f', name='download.jpg', type='image/jpeg', size=7774, _file_urls=file_id: "9fb31f5c-b516-460d-b53d-afd18d06082f"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/9fb31f5c-b516-460d-b53d-afd18d06082f"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/9fb31f5c-b516-460d-b53d-afd18d06082f"
+)
+2024-03-30 01:37:09,718 - INFO - Loading image...
+2024-03-30 01:37:09,727 - INFO - Image loaded successfully.
+2024-03-30 01:37:09,727 - INFO - Classifying image...
+2024-03-30 01:37:10,274 - INFO - Image classified successfully.
+2024-03-30 01:37:15,913 - INFO - Loading model...
+2024-03-30 01:37:15,977 - INFO - Loading model...
+2024-03-30 01:37:21,537 - INFO - Model loaded successfully.
+2024-03-30 01:37:21,537 - INFO - Model loaded successfully.
+2024-03-30 01:37:21,644 - INFO - File uploaded: UploadedFile(file_id='b3199b00-9cff-4f44-9da1-e203e9076d32', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "b3199b00-9cff-4f44-9da1-e203e9076d32"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/b3199b00-9cff-4f44-9da1-e203e9076d32"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/b3199b00-9cff-4f44-9da1-e203e9076d32"
+)
+2024-03-30 01:37:21,644 - INFO - Loading image...
+2024-03-30 01:37:21,695 - INFO - Image loaded successfully.
+2024-03-30 01:37:21,695 - INFO - Classifying image...
+2024-03-30 01:37:23,071 - INFO - Image classified successfully.
+2024-03-30 01:37:28,429 - INFO - Loading model...
+2024-03-30 01:37:28,527 - INFO - Loading model...
+2024-03-30 01:37:34,208 - INFO - Model loaded successfully.
+2024-03-30 01:37:34,212 - INFO - Model loaded successfully.
+2024-03-30 01:37:34,316 - INFO - File uploaded: UploadedFile(file_id='aa94e53e-3461-4204-b593-d1daf1b32a0b', name='download.jpg', type='image/jpeg', size=4671, _file_urls=file_id: "aa94e53e-3461-4204-b593-d1daf1b32a0b"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/aa94e53e-3461-4204-b593-d1daf1b32a0b"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/aa94e53e-3461-4204-b593-d1daf1b32a0b"
+)
+2024-03-30 01:37:34,316 - INFO - Loading image...
+2024-03-30 01:37:34,370 - INFO - Image loaded successfully.
+2024-03-30 01:37:34,370 - INFO - Classifying image...
+2024-03-30 01:37:35,519 - INFO - Image classified successfully.
+2024-03-30 01:37:41,891 - INFO - Loading model...
+2024-03-30 01:37:42,006 - INFO - Loading model...
+2024-03-30 01:37:46,990 - INFO - Model loaded successfully.
+2024-03-30 01:37:47,112 - INFO - Model loaded successfully.
+2024-03-30 01:37:47,122 - INFO - File uploaded: UploadedFile(file_id='5b2e0fb0-42a1-4333-aa20-97a2aca4fe6d', name='download.jpg', type='image/jpeg', size=4611, _file_urls=file_id: "5b2e0fb0-42a1-4333-aa20-97a2aca4fe6d"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5b2e0fb0-42a1-4333-aa20-97a2aca4fe6d"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/5b2e0fb0-42a1-4333-aa20-97a2aca4fe6d"
+)
+2024-03-30 01:37:47,128 - INFO - Loading image...
+2024-03-30 01:37:47,167 - INFO - Image loaded successfully.
+2024-03-30 01:37:47,167 - INFO - Classifying image...
+2024-03-30 01:37:48,259 - INFO - Image classified successfully.
+2024-03-30 01:37:54,295 - INFO - Loading model...
+2024-03-30 01:37:54,298 - INFO - Loading model...
+2024-03-30 01:37:59,663 - INFO - Model loaded successfully.
+2024-03-30 01:37:59,665 - INFO - Model loaded successfully.
+2024-03-30 01:37:59,759 - INFO - File uploaded: UploadedFile(file_id='0e67209a-0831-4942-a686-9fde94bd5ff0', name='download.jpg', type='image/jpeg', size=5899, _file_urls=file_id: "0e67209a-0831-4942-a686-9fde94bd5ff0"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/0e67209a-0831-4942-a686-9fde94bd5ff0"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/0e67209a-0831-4942-a686-9fde94bd5ff0"
+)
+2024-03-30 01:37:59,759 - INFO - Loading image...
+2024-03-30 01:37:59,807 - INFO - Image loaded successfully.
+2024-03-30 01:37:59,807 - INFO - Classifying image...
+2024-03-30 01:38:00,907 - INFO - Image classified successfully.
+2024-03-30 01:38:08,644 - INFO - Loading model...
+2024-03-30 01:38:08,744 - INFO - Loading model...
+2024-03-30 01:38:13,832 - INFO - Model loaded successfully.
+2024-03-30 01:38:13,832 - INFO - Model loaded successfully.
+2024-03-30 01:38:13,942 - INFO - File uploaded: UploadedFile(file_id='fbcb4faf-6790-4e3b-ba3f-6e77ec1bbe9d', name='download.jpg', type='image/jpeg', size=7774, _file_urls=file_id: "fbcb4faf-6790-4e3b-ba3f-6e77ec1bbe9d"
+upload_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/fbcb4faf-6790-4e3b-ba3f-6e77ec1bbe9d"
+delete_url: "/_stcore/upload_file/e8ce2813-1218-491e-b26d-feed742c4181/fbcb4faf-6790-4e3b-ba3f-6e77ec1bbe9d"
+)
+2024-03-30 01:38:13,942 - INFO - Loading image...
+2024-03-30 01:38:13,974 - INFO - Image loaded successfully.
+2024-03-30 01:38:13,974 - INFO - Classifying image...
+2024-03-30 01:38:15,007 - INFO - Image classified successfully.
+2024-03-30 01:38:32,361 - INFO - Loading model...
+2024-03-30 01:38:35,310 - INFO - Model loaded successfully.
+2024-03-30 01:38:35,310 - INFO - File uploaded: None
+2024-03-30 01:39:37,500 - INFO - Loading model...
+2024-03-30 01:39:40,652 - INFO - Model loaded successfully.
+2024-03-30 01:39:40,653 - INFO - File uploaded: UploadedFile(file_id='7a5dc7f3-b25e-4f38-8e7f-d3e3ee6479fc', name='download.jpg', type='image/jpeg', size=5733, _file_urls=file_id: "7a5dc7f3-b25e-4f38-8e7f-d3e3ee6479fc"
+upload_url: "/_stcore/upload_file/21b732ff-50ec-42d3-9a3c-07824d5352fe/7a5dc7f3-b25e-4f38-8e7f-d3e3ee6479fc"
+delete_url: "/_stcore/upload_file/21b732ff-50ec-42d3-9a3c-07824d5352fe/7a5dc7f3-b25e-4f38-8e7f-d3e3ee6479fc"
+)
+2024-03-30 01:39:40,653 - INFO - Loading image...
+2024-03-30 01:39:40,669 - INFO - Image loaded successfully.
+2024-03-30 01:39:40,669 - INFO - Classifying image...
+2024-03-30 01:39:41,990 - INFO - Image classified successfully.
+2024-03-30 01:39:55,711 - INFO - Loading model...
+2024-03-30 01:39:55,818 - INFO - Loading model...
+2024-03-30 01:40:00,839 - INFO - Model loaded successfully.
+2024-03-30 01:40:00,840 - INFO - File uploaded: UploadedFile(file_id='1ebeacca-22ab-4736-ad7d-5b29ecbf5c7f', name='download.jpg', type='image/jpeg', size=7774, _file_urls=file_id: "1ebeacca-22ab-4736-ad7d-5b29ecbf5c7f"
+upload_url: "/_stcore/upload_file/21b732ff-50ec-42d3-9a3c-07824d5352fe/1ebeacca-22ab-4736-ad7d-5b29ecbf5c7f"
+delete_url: "/_stcore/upload_file/21b732ff-50ec-42d3-9a3c-07824d5352fe/1ebeacca-22ab-4736-ad7d-5b29ecbf5c7f"
+)
+2024-03-30 01:40:00,840 - INFO - Model loaded successfully.
+2024-03-30 01:40:00,840 - INFO - Loading image...
+2024-03-30 01:40:01,000 - INFO - Image loaded successfully.
+2024-03-30 01:40:01,000 - INFO - Classifying image...
+2024-03-30 01:40:02,150 - INFO - Image classified successfully.
